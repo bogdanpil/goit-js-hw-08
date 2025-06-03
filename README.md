@@ -1,2 +1,3 @@
-# goit-js-hw-06
-javaScript
+# goit-js-hw-08
+javaScript gallery
+
